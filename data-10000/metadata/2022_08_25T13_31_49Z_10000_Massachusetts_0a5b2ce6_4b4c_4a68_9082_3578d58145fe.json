@@ -1,0 +1,19 @@
+{
+  "runID": "0a5b2ce6-4b4c-4a68-9082-3578d58145fe",
+  "seed": 1661434309177,
+  "clinicianSeed": 1661434309177,
+  "referenceTime": "20220825",
+  "endTime": "20220825",
+  "version": "synthea-java",
+  "patientCount": 11701,
+  "providerCount": 10113,
+  "payerCount": 9,
+  "javaVersion": "11.0.4",
+  "generate.thread_pool_size": -1,
+  "generatorThreads": 12,
+  "runStartTime": "2022-08-25T13:31:49Z",
+  "runTimeInSeconds": 907,
+  "exporter.years_of_history": "10",
+  "state": "Massachusetts",
+  "modules": "*"
+}
