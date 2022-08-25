@@ -1,3 +1,5 @@
+# CSV Data Dictionary !
+
 Synthea can be configured to export data as CSV into `./output/csv`.
 
 To export CSV, edit `./src/main/resources/synthea.properties` and change this setting:
